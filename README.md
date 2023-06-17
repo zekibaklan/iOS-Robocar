@@ -22,7 +22,10 @@ Engel gördüğünde duracaktır.
 
 Detaylı bilgi için README.pdf dosyasını inceleyebilirsiniz.
 
-![https://www.hizliresim.com/e0umldo görsel]<br /><br />
+<div style="display:flex;">
+    <img src="https://r.resimlink.com/Fk4EgVY.png" alt="banner resmi" width="400" style="flex:1;">
+    <img src="https://r.resimlink.com/2E4CqQDi.png" alt="banner resmi" width="400" style="flex:1;">
+</div>
 
 **Bağlantı Şeması**
 ![banner resmi](https://r.resimlink.com/QDgOzR.png)<br /><br />
